@@ -1,0 +1,8 @@
+<Project Version="2" Name="vpilotdesigns-skfr" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\vpilotdesigns-skfr.xml</Package>
+	</Packages>
+</Project>
+

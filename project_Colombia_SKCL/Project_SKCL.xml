@@ -1,0 +1,8 @@
+<Project Version="2" Name="Project_SKCL" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\projectcolombia-project-colombia-skcl.xml</Package>
+	</Packages>
+</Project>
+

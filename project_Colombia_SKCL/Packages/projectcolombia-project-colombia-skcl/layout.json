@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/projectcolombia-project-colombia-skcl/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Library.xml",
+      "size": 1803,
+      "date": 132590221122238388
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS",
+      "size": 5888772,
+      "date": 132590221134416322
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/Cali.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132590215354293445
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS.json",
+      "size": 232,
+      "date": 132590221134356480
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS",
+      "size": 4206420,
+      "date": 132590221127794020
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/Califlipped.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132590211325345855
+    },
+    {
+      "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS.json",
+      "size": 232,
+      "date": 132590221127365172
+    },
+    {
+      "path": "scenery/SKCL_Scene.bgl",
+      "size": 92970,
+      "date": 132590221480756068
+    }
+  ]
+}

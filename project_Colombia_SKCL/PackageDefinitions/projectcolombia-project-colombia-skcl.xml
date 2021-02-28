@@ -1,0 +1,39 @@
+<AssetPackage Name="projectcolombia-project-colombia-skcl" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Project Colombia SKCL</Title>
+		<Manufacturer>Airport2Project</Manufacturer>
+		<Creator>Diego O. Matheo F.</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\projectcolombia-project-colombia-skcl\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\projectcolombia-project-colombia-skcl\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="SKCLMaterials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Materials\</AssetDir>
+			<OutputDir>MaterialLibs\skclmaterial\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="project-colombia-airport-skcl">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>skcl_asset\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
