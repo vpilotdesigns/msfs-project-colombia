@@ -26,6 +26,14 @@
 			<AssetDir>PackageSources\Materials\</AssetDir>
 			<OutputDir>MaterialLibs\skclmaterial\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SKCLModels">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\ModelLib\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="project-colombia-airport-skcl">
 			<Type>BGL</Type>
 			<Flags>

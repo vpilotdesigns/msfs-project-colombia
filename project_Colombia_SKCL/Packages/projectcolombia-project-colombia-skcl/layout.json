@@ -56,9 +56,34 @@
       "date": 132592901952886924
     },
     {
+      "path": "scenery/ModelLib.BGL",
+      "size": 1339518,
+      "date": 132593502976053981
+    },
+    {
       "path": "scenery/SKCL_Scene.bgl",
-      "size": 105911,
-      "date": 132593492579036481
+      "size": 121063,
+      "date": 132593711764498987
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS",
+      "size": 11088,
+      "date": 132593496811945175
+    },
+    {
+      "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132593496811900171
+    },
+    {
+      "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS",
+      "size": 11064,
+      "date": 132593496812245228
+    },
+    {
+      "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132593496812205217
     }
   ]
 }
