@@ -35,8 +35,8 @@
 	<SceneryObject lat="3.55478951265362" lon="-76.38470546219069" alt="0.00000000000000" pitch="0.000826" bank="-0.000826" heading="84.626010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Cessna Skyhawk Asobo" scale="1.000000"/>
 	</SceneryObject>
-	<Rectangle width="10.500002" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.53431513220650" longitude="-76.38653145790690" altitude="953.69446077849716" latitude2="3.53422043645106" longitude2="-76.38653823962819" altitude2="953.69465537928045"/>
-	<Rectangle width="260.360931" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.55607964597143" longitude="-76.38444163102598" altitude="986.27973404526711" latitude2="3.55377072897686" longitude2="-76.38489875250869" altitude2="986.28648678585887"/>
+	<Rectangle width="10.500002" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.53431513221080" longitude="-76.38653145790659" altitude="953.69446078035980" latitude2="3.53422043644676" longitude2="-76.38653823962851" altitude2="953.69465537928045"/>
+	<Rectangle width="260.360931" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.55607964597143" longitude="-76.38444163102598" altitude="986.27973404247314" latitude2="3.55377072897686" longitude2="-76.38489875250869" altitude2="986.28648678585887"/>
 	<Group name="Group 12" displayName="Hangar line">
 		<!--SceneryObject name: Gen_Hangar118-->
 		<SceneryObject lat="3.55585470267231" lon="-76.38454221933020" alt="0.00000000000000" pitch="0.000833" bank="-0.053310" heading="95.049391" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -1276,9 +1276,9 @@
 		<TaxiwayPoint groupIndex="115" index="565" type="NORMAL" orientation="FORWARD" lat="3.53394485268537" lon="-76.38566823466493"/>
 		<TaxiwayPoint groupIndex="131" index="566" type="NORMAL" orientation="FORWARD" lat="3.53396778442518" lon="-76.38558779808498"/>
 		<TaxiwayPoint groupIndex="828" index="567" type="NORMAL" orientation="FORWARD" lat="3.53404107362016" lon="-76.38595740215391"/>
-		<TaxiwayPoint groupIndex="832" index="568" type="NORMAL" orientation="FORWARD" lat="3.53411354548664" lon="-76.38602804609097"/>
+		<TaxiwayPoint groupIndex="832" index="568" type="NORMAL" orientation="FORWARD" lat="3.53411567720427" lon="-76.38602385632166"/>
 		<TaxiwayPoint groupIndex="833" index="569" type="NORMAL" orientation="FORWARD" lat="3.53421636493315" lon="-76.38609930797715"/>
-		<TaxiwayPoint groupIndex="831" index="570" type="NORMAL" orientation="FORWARD" lat="3.53416761376542" lon="-76.38607181537557"/>
+		<TaxiwayPoint groupIndex="831" index="570" type="NORMAL" orientation="FORWARD" lat="3.53417117876361" lon="-76.38606624176208"/>
 		<TaxiwayPoint groupIndex="830" index="571" type="NORMAL" orientation="FORWARD" lat="3.53396679459529" lon="-76.38584344157307"/>
 		<TaxiwayPoint groupIndex="132" index="572" type="NORMAL" orientation="FORWARD" lat="3.53396430967748" lon="-76.38558498318946"/>
 		<TaxiwayPoint groupIndex="829" index="573" type="NORMAL" orientation="FORWARD" lat="3.53395552055431" lon="-76.38571153221304"/>
@@ -1322,7 +1322,7 @@
 		<TaxiwayParking displayName=" (copy) (copy) (copy)" groupIndex="855" index="458" type="RAMP_GA_MEDIUM" lat="3.53333871784547" lon="-76.38620809848618" heading="5.391686" radius="14.000000" name="PARKING" number="4" suffix="GATE_G" pushBack="NONE" numberMarking="TRUE" numberBiasX="13.600000" numberBiasZ="46.000000" numberHeading="184.000000"/>
 		<TaxiwayParking displayName=" (copy) (copy) (copy) (copy)" groupIndex="869" index="459" type="RAMP_GA_MEDIUM" lat="3.53329855868885" lon="-76.38576327096428" heading="4.523914" radius="14.000000" name="PARKING" number="5" suffix="GATE_G" pushBack="NONE" numberMarking="TRUE" numberBiasX="14.000000" numberBiasZ="48.000000" numberHeading="182.000000"/>
 		<TaxiwayParking displayName="GATE D20" groupIndex="836" index="544" type="GATE_MEDIUM" lat="3.53434575266052" lon="-76.38680586607710" heading="0.841548" radius="22.000000" name="GATE" number="20" suffix="GATE_D" pushBack="NONE" numberMarking="TRUE" numberBiasX="-0.400000" numberBiasZ="-50.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Gate D19" groupIndex="85" index="547" type="GATE_HEAVY" lat="3.53448703473186" lon="-76.38627554120302" heading="324.464355" radius="32.000000" name="GATE" number="19" suffix="GATE_D" pushBack="NONE" numberMarking="TRUE" numberBiasX="72.000000" numberBiasZ="-58.000000" numberHeading="270.000000"/>
+		<TaxiwayParking displayName="Gate D19" groupIndex="85" index="547" type="GATE_HEAVY" lat="3.53448703473189" lon="-76.38627554120302" heading="-43.213825" radius="32.000000" name="GATE" number="19" suffix="GATE_D" pushBack="NONE" numberMarking="TRUE" numberBiasX="72.000000" numberBiasZ="-58.000000" numberHeading="270.000000"/>
 		<TaxiwayParking displayName="GATE D18" groupIndex="835" index="548" type="GATE_HEAVY" lat="3.53505340434990" lon="-76.38617756854379" heading="276.424255" radius="32.000000" name="GATE" number="18" suffix="GATE_D" pushBack="NONE" numberMarking="TRUE" numberBiasX="78.000000" numberBiasZ="-8.500000" numberHeading="277.000000"/>
 		<TaxiwayParking displayName="GATE D17" groupIndex="896" index="549" type="GATE_MEDIUM" lat="3.53555761022977" lon="-76.38613660776696" heading="278.854065" radius="22.000000" name="GATE" number="17" suffix="GATE_D" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="GATE D16" groupIndex="889" index="550" type="GATE_MEDIUM" lat="3.53596295427427" lon="-76.38608589935079" heading="279.842072" radius="22.000000" name="GATE" number="16" suffix="GATE_D" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -2075,11 +2075,11 @@
 			</SceneryObject>
 		</Jetway>
 		<Jetway gateName="GATE" parkingNumber="19" suffix="GATE_D">
-			<SceneryObject lat="3.53456025355549" lon="-76.38658681527875" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<SceneryObject lat="3.53456192772269" lon="-76.38661961590508" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 			<!--SceneryObject name: Jetway_Link-->
-			<SceneryObject lat="3.53476754233410" lon="-76.38664750005397" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<SceneryObject lat="3.53473160730146" lon="-76.38667901857792" alt="0.00000000000000" pitch="0.000280" bank="-0.000280" heading="-115.126472" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
@@ -2088,7 +2088,7 @@
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 			<!--SceneryObject name: Jetway_Link-->
-			<SceneryObject lat="3.53480144228908" lon="-76.38664271983845" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<SceneryObject lat="3.53487883041934" lon="-76.38663119067874" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
