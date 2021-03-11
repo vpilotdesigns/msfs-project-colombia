@@ -338,7 +338,7 @@
 	<SceneryObject lat="3.55387836170964" lon="-76.38515066643446" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{59568F66-BC1D-494B-8715-B19B9BAC7952}" scale="0.248200"/>
 	</SceneryObject>
-	<Rectangle width="10.500002" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.53431513227101" longitude="-76.38653145790228" altitude="953.69446078501642" latitude2="3.53422043638655" longitude2="-76.38653823963281" altitude2="953.69465538207442"/>
+	<Rectangle width="10.500002" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.53431513227531" longitude="-76.38653145790197" altitude="953.69446078501642" latitude2="3.53422043638225" longitude2="-76.38653823963314" altitude2="953.69465538393706"/>
 	<Rectangle width="260.360931" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="3.55607964596840" longitude="-76.38444163102821" altitude="986.27973377052695" latitude2="3.55377072897383" longitude2="-76.38489875251092" altitude2="986.28648651111871"/>
 	<Group name="Group 12" displayName="Hangar line">
 		<!--SceneryObject name: Gen_Hangar118-->
@@ -2055,7 +2055,7 @@
 			<RunwayStart end="SECONDARY" lat="3.55626392364502" lon="-76.37940979003911" alt="962.55799999999999" heading="189.80000305175781"/>
 		</Runway>
 		<Jetway gateName="GATE" parkingNumber="14" suffix="GATE_C">
-			<SceneryObject lat="3.53683785970002" lon="-76.38609844699727" alt="0.00000000000000" pitch="0.044235" bank="-0.044235" heading="149.465631" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="TRUE">
+			<SceneryObject lat="3.53683785970002" lon="-76.38609844699727" alt="0.00000000000000" pitch="0.044235" bank="-0.044235" heading="149.465631" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
