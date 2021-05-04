@@ -56,14 +56,19 @@
       "date": 132596134204450974
     },
     {
+      "path": "scenery/airportShape.bgl",
+      "size": 1700,
+      "date": 132644541352282444
+    },
+    {
       "path": "scenery/ModelLib.BGL",
       "size": 1339518,
       "date": 132596134761453426
     },
     {
       "path": "scenery/SKCL_Scene.bgl",
-      "size": 156621,
-      "date": 132639634327267677
+      "size": 151197,
+      "date": 132644561874296366
     },
     {
       "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS",
