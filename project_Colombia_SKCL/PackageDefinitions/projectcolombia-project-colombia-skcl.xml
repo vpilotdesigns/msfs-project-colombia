@@ -31,7 +31,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\ModelLib\</AssetDir>
+			<AssetDir>PackageSources\SKCL-ModelLib\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="project-colombia-airport-skcl">

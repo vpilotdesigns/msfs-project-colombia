@@ -1,8 +1,8 @@
 <Timestamps>
-	<Entry Path="TEXTURE\MATERIAL_1.PNG" Timestamp="13259349407"/>
 	<Entry Path="hangar.gltf" Timestamp="13259349407"/>
+	<Entry Path="texture\MATERIAL_1.PNG" Timestamp="13259349407"/>
+	<Entry Path="texture\HANGAR_0.PNG" Timestamp="13259349407"/>
 	<Entry Path="hangar.bin" Timestamp="13259349407"/>
 	<Entry Path="hangar.xml" Timestamp="13259349407"/>
-	<Entry Path="TEXTURE\HANGAR_0.PNG" Timestamp="13259349407"/>
 </Timestamps>
 

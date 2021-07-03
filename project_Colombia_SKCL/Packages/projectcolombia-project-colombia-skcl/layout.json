@@ -7,43 +7,13 @@
     },
     {
       "path": "MaterialLibs/skclmaterial/Library.xml",
-      "size": 2681,
-      "date": 132673165638616218
+      "size": 666,
+      "date": 132697582468023691
     },
     {
-      "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS",
-      "size": 5888772,
-      "date": 132673165652923806
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/Cali.png.DDS.FLAGS",
-      "size": 39,
-      "date": 132592510776610148
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS.json",
-      "size": 232,
-      "date": 132673165652888770
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS",
-      "size": 4206420,
-      "date": 132673165645973568
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/Califlipped.png.DDS.FLAGS",
-      "size": 39,
-      "date": 132592510776655158
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS.json",
-      "size": 232,
-      "date": 132673165645953549
-    },
-    {
-      "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS",
+      "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS",
       "size": 1398276,
-      "date": 132673165640771103
+      "date": 132697580198580963
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.FLAGS",
@@ -51,44 +21,24 @@
       "date": 132592872007446781
     },
     {
-      "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS.json",
+      "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.json",
       "size": 249,
-      "date": 132673165640756092
+      "date": 132697580198560952
     },
     {
       "path": "scenery/airportShape.bgl",
       "size": 1700,
-      "date": 132673375366829502
+      "date": 132697580200222380
     },
     {
-      "path": "scenery/ModelLib.BGL",
-      "size": 1339518,
-      "date": 132673165695521112
+      "path": "scenery/SKCL-ModelLib.BGL",
+      "size": 56,
+      "date": 132697582468128795
     },
     {
       "path": "scenery/SKCL_Scene.bgl",
       "size": 177413,
-      "date": 132673375366754441
-    },
-    {
-      "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS",
-      "size": 11088,
-      "date": 132673165653183817
-    },
-    {
-      "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS.json",
-      "size": 119,
-      "date": 132673165653178814
-    },
-    {
-      "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS",
-      "size": 11064,
-      "date": 132673165653338953
-    },
-    {
-      "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS.json",
-      "size": 102,
-      "date": 132673165653333948
+      "date": 132697580200172330
     }
   ]
 }
