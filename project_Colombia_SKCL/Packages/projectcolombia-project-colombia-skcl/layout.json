@@ -3,92 +3,132 @@
     {
       "path": "ContentInfo/projectcolombia-project-colombia-skcl/Thumbnail.jpg",
       "size": 13520,
-      "date": 132592510776568308
+      "date": 132697347196190875
     },
     {
       "path": "MaterialLibs/skclmaterial/Library.xml",
       "size": 2681,
-      "date": 132673165638616218
+      "date": 132697362304892737
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS",
       "size": 5888772,
-      "date": 132673165652923806
+      "date": 132697362336471619
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Cali.png.DDS.FLAGS",
       "size": 39,
-      "date": 132592510776610148
+      "date": 132697347196250887
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/CALI.PNG.DDS.json",
       "size": 232,
-      "date": 132673165652888770
+      "date": 132697362336411608
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS",
       "size": 4206420,
-      "date": 132673165645973568
+      "date": 132697362327333658
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Califlipped.png.DDS.FLAGS",
       "size": 39,
-      "date": 132592510776655158
+      "date": 132697347196300865
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/CALIFLIPPED.PNG.DDS.json",
       "size": 232,
-      "date": 132673165645953549
+      "date": 132697362327293663
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS",
       "size": 1398276,
-      "date": 132673165640771103
+      "date": 132697362320383820
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.FLAGS",
       "size": 39,
-      "date": 132592872007446781
+      "date": 132697347196310870
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS.json",
       "size": 249,
-      "date": 132673165640756092
+      "date": 132697362320363729
     },
     {
       "path": "scenery/airportShape.bgl",
-      "size": 1700,
-      "date": 132673375366829502
+      "size": 2029,
+      "date": 132697427240325148
     },
     {
       "path": "scenery/ModelLib.BGL",
-      "size": 1339518,
-      "date": 132673165695521112
+      "size": 2155174,
+      "date": 132697362473301994
     },
     {
       "path": "scenery/SKCL_Scene.bgl",
       "size": 177413,
-      "date": 132673375366754441
+      "date": 132697427240195136
     },
     {
       "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS",
       "size": 11088,
-      "date": 132673165653183817
+      "date": 132697362336717746
     },
     {
       "path": "scenery/TEXTURE/HANGAR_0.PNG.DDS.json",
       "size": 119,
-      "date": 132673165653178814
+      "date": 132697362336707756
     },
     {
       "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS",
       "size": 11064,
-      "date": 132673165653338953
+      "date": 132697362336937769
     },
     {
       "path": "scenery/TEXTURE/MATERIAL_1.PNG.DDS.json",
       "size": 102,
-      "date": 132673165653333948
+      "date": 132697362336927759
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_01.JPG.DDS",
+      "size": 11184952,
+      "date": 132697362354645666
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_01.JPG.DDS.json",
+      "size": 102,
+      "date": 132697362354555634
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_02.JPG.DDS",
+      "size": 11184952,
+      "date": 132697362404349358
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_02.JPG.DDS.json",
+      "size": 102,
+      "date": 132697362404259344
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_03.JPG.DDS",
+      "size": 11184952,
+      "date": 132697362371336911
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_03.JPG.DDS.json",
+      "size": 102,
+      "date": 132697362371226876
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_04.JPG.DDS",
+      "size": 11184952,
+      "date": 132697362387788127
+    },
+    {
+      "path": "scenery/TEXTURE/SKCL_TERMV4_04.JPG.DDS.json",
+      "size": 102,
+      "date": 132697362387698104
     }
   ]
 }
