@@ -1,0 +1,167 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1490,
+      "type": "VEC3",
+      "min": [
+        -1.5,
+        -0.036249998956918716,
+        -6.4460000991821289
+      ],
+      "max": [
+        1.5003900527954102,
+        4.5,
+        6.03849983215332
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1490,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1490,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 2946,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "doubleSided": true,
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "vehiculo_vehiculos_01"
+    },
+    {
+      "source": 1,
+      "name": "vehiculo_vehiculos_01_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "vehiculo_vehiculos_01.png"
+    },
+    {
+      "uri": "vehiculo_vehiculos_01_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 11784
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11784,
+      "byteLength": 17880,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29664,
+      "byteLength": 17880,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47544,
+      "byteLength": 11920,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 59464,
+      "uri": "vehiculo.bin"
+    }
+  ]
+}

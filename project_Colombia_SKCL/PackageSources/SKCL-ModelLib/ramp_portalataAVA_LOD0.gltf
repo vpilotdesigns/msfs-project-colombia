@@ -1,0 +1,167 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 276,
+      "type": "VEC3",
+      "min": [
+        -0.924780011177063,
+        0.0023300000466406345,
+        -0.11500000208616257
+      ],
+      "max": [
+        0.924780011177063,
+        0.39500001072883606,
+        3.2100400924682617
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 276,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 276,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 462,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "doubleSided": true,
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "ramp_portalataava_skbq_elementos"
+    },
+    {
+      "source": 1,
+      "name": "ramp_portalataava_skbq_elementos_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "ramp_portalataava_skbq_elementos.png"
+    },
+    {
+      "uri": "ramp_portalataava_skbq_elementos_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1848
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1848,
+      "byteLength": 3312,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5160,
+      "byteLength": 3312,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8472,
+      "byteLength": 2208,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10680,
+      "uri": "ramp_portalataAVA_LOD0.bin"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC3",
+      "min": [
+        -0.70744997262954712,
+        0.0,
+        -1.3824000358581543
+      ],
+      "max": [
+        0.70744997262954712,
+        1.6669199466705322,
+        1.5176000595092773
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 474,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "doubleSided": true,
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "ramp_carroava_skbq_elementos"
+    },
+    {
+      "source": 1,
+      "name": "ramp_carroava_skbq_elementos_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "ramp_carroava_skbq_elementos.png"
+    },
+    {
+      "uri": "ramp_carroava_skbq_elementos_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1896
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1896,
+      "byteLength": 3744,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5640,
+      "byteLength": 3744,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9384,
+      "byteLength": 2496,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11880,
+      "uri": "ramp_carroAVA_LOD1.bin"
+    }
+  ]
+}

@@ -3,42 +3,452 @@
     {
       "path": "ContentInfo/projectcolombia-project-colombia-skcl/Thumbnail.jpg",
       "size": 13520,
-      "date": 132592510776568308
+      "date": 132599516976667955
     },
     {
       "path": "MaterialLibs/skclmaterial/Library.xml",
       "size": 666,
-      "date": 132697582468023691
+      "date": 132697598206290386
     },
     {
-      "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS",
+      "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS",
       "size": 1398276,
-      "date": 132697580198580963
+      "date": 132697594939131595
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.FLAGS",
       "size": 39,
-      "date": 132592872007446781
+      "date": 132599516976757728
     },
     {
-      "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.json",
+      "path": "MaterialLibs/skclmaterial/Textures/HELIPAD.PNG.DDS.json",
       "size": 249,
-      "date": 132697580198560952
+      "date": 132697594939121625
     },
     {
       "path": "scenery/airportShape.bgl",
       "size": 1700,
-      "date": 132697580200222380
+      "date": 132697598221020272
     },
     {
       "path": "scenery/SKCL-ModelLib.BGL",
-      "size": 56,
-      "date": 132697582468128795
+      "size": 1265624,
+      "date": 132697616845894263
     },
     {
       "path": "scenery/SKCL_Scene.bgl",
-      "size": 177413,
-      "date": 132697580200172330
+      "size": 177761,
+      "date": 132697623206481901
+    },
+    {
+      "path": "scenery/texture/CARGA_SKCL_CARGA.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594956315370
+    },
+    {
+      "path": "scenery/texture/CARGA_SKCL_CARGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594955926188
+    },
+    {
+      "path": "scenery/texture/CARGA_SKCL_CARGA_LM.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594959832588
+    },
+    {
+      "path": "scenery/texture/CARGA_SKCL_CARGA_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594959443629
+    },
+    {
+      "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS.PNG.DDS",
+      "size": 1398256,
+      "date": 132697594969706578
+    },
+    {
+      "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS.PNG.DDS.json",
+      "size": 119,
+      "date": 132697594969686629
+    },
+    {
+      "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS_LM.PNG.DDS",
+      "size": 1398256,
+      "date": 132697594970813359
+    },
+    {
+      "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697594970803380
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594981646581
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594981626629
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL_LM.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594985302851
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594985282899
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594989242552
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594988833647
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL_LM.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594992736842
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594992342636
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594978271682
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594977872748
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL_LM.PNG.DDS",
+      "size": 2796344,
+      "date": 132697594974599624
+    },
+    {
+      "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132697594974195646
+    },
+    {
+      "path": "scenery/texture/JETWAYS_STATIC_JETWAYS.PNG.DDS",
+      "size": 1398256,
+      "date": 132697594993780739
+    },
+    {
+      "path": "scenery/texture/JETWAYS_STATIC_JETWAYS.PNG.DDS.json",
+      "size": 119,
+      "date": 132697594993760818
+    },
+    {
+      "path": "scenery/texture/JETWAYS_STATIC_JETWAYS_LM.PNG.DDS",
+      "size": 1398256,
+      "date": 132697594994883202
+    },
+    {
+      "path": "scenery/texture/JETWAYS_STATIC_JETWAYS_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697594994873224
+    },
+    {
+      "path": "scenery/texture/RADAR_RADAR.PNG.DDS",
+      "size": 349680,
+      "date": 132697595020205013
+    },
+    {
+      "path": "scenery/texture/RADAR_RADAR.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595020195037
+    },
+    {
+      "path": "scenery/texture/RADAR_RADAR_LM.PNG.DDS",
+      "size": 349680,
+      "date": 132697595019845238
+    },
+    {
+      "path": "scenery/texture/RADAR_RADAR_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595019825293
+    },
+    {
+      "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595041952644
+    },
+    {
+      "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595041543737
+    },
+    {
+      "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595038275758
+    },
+    {
+      "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595037861811
+    },
+    {
+      "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595077173831
+    },
+    {
+      "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595077143911
+    },
+    {
+      "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595073974348
+    },
+    {
+      "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595073560405
+    },
+    {
+      "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595090933740
+    },
+    {
+      "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595090903826
+    },
+    {
+      "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
+      "size": 5592560,
+      "date": 132697595087591396
+    },
+    {
+      "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595087561472
+    },
+    {
+      "path": "scenery/texture/SKCL_ENV_SKCL_ENV.PNG.DDS",
+      "size": 349680,
+      "date": 132697595121086469
+    },
+    {
+      "path": "scenery/texture/SKCL_ENV_SKCL_ENV.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595121071409
+    },
+    {
+      "path": "scenery/texture/SKCL_ENV_SKCL_ENV_LM.PNG.DDS",
+      "size": 349680,
+      "date": 132697595120741880
+    },
+    {
+      "path": "scenery/texture/SKCL_ENV_SKCL_ENV_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697595120731908
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616769937331
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616769443414
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03_LM.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616728591740
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616728093075
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616756001936
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616755523177
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04_LM.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616742276840
+    },
+    {
+      "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616741788018
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616784456855
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616783948216
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01_LM.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616824253827
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616823785082
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616811387040
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616810858449
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02_LM.PNG.DDS",
+      "size": 22369776,
+      "date": 132697616797402823
+    },
+    {
+      "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616796914130
+    },
+    {
+      "path": "scenery/texture/VEHICULO_VEHICULOS_01.PNG.DDS",
+      "size": 1398256,
+      "date": 132697616825650097
+    },
+    {
+      "path": "scenery/texture/VEHICULO_VEHICULOS_01.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616825640118
+    },
+    {
+      "path": "scenery/texture/VEHICULO_VEHICULOS_01_LM.PNG.DDS",
+      "size": 1398256,
+      "date": 132697616826936658
+    },
+    {
+      "path": "scenery/texture/VEHICULO_VEHICULOS_01_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616826916710
+    },
+    {
+      "path": "scenery/texture/WHITECENTER_SKBQ_LUCES.PNG.DDS",
+      "size": 5592560,
+      "date": 132697616830542233
+    },
+    {
+      "path": "scenery/texture/WHITECENTER_SKBQ_LUCES.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616830512317
+    },
+    {
+      "path": "scenery/texture/WHITECENTER_SKBQ_LUCES_LM.PNG.DDS",
+      "size": 5592560,
+      "date": 132697616834397285
+    },
+    {
+      "path": "scenery/texture/WHITECENTER_SKBQ_LUCES_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616833988376
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_DUMMY.PNG.DDS",
+      "size": 312,
+      "date": 132697616835673920
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_DUMMY.PNG.DDS.json",
+      "size": 102,
+      "date": 132697616835673920
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_LAMPFLOOR.PNG.DDS",
+      "size": 22000,
+      "date": 132697616835075515
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_LAMPFLOOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616835075515
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES.PNG.DDS",
+      "size": 5592560,
+      "date": 132697616844946796
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616844507965
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES_LM.PNG.DDS",
+      "size": 5592560,
+      "date": 132697616841236979
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616840828064
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_WHITELIGHTEFFECT.PNG.DDS",
+      "size": 349672,
+      "date": 132697616837142227
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_WHITELIGHTEFFECT.PNG.DDS.json",
+      "size": 102,
+      "date": 132697616837132254
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_WHITEYELLOW_LIGHT_LM.PNG.DDS",
+      "size": 349680,
+      "date": 132697616835554235
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_WHITEYELLOW_LIGHT_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132697616835544261
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_YELLOWLIGHTEFFECT.PNG.DDS",
+      "size": 349672,
+      "date": 132697616836373140
+    },
+    {
+      "path": "scenery/texture/WHITELIGHT_YELLOWLIGHTEFFECT.PNG.DDS.json",
+      "size": 102,
+      "date": 132697616836363168
     }
   ]
 }

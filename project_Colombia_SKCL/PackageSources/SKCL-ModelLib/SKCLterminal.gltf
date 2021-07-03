@@ -1,0 +1,170 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_shadow_options",
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3",
+      "min": [
+        -291.4901123046875,
+        4.5819997787475586,
+        -18.216190338134766
+      ],
+      "max": [
+        -91.3314208984375,
+        21.1299991607666,
+        85.456802368164063
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 273,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 417,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "extensions": {
+        "ASOBO_material_shadow_options": {
+          "noCastShadow": true
+        },
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "skclterminal_term_05"
+    },
+    {
+      "source": 1,
+      "name": "skclterminal_term_05_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "skclterminal_term_05.png"
+    },
+    {
+      "uri": "skclterminal_term_05_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1668
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1668,
+      "byteLength": 3276,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4944,
+      "byteLength": 3276,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8220,
+      "byteLength": 2184,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10404,
+      "uri": "SKCLterminal.bin"
+    }
+  ]
+}

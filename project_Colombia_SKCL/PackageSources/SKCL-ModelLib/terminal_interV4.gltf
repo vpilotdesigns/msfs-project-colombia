@@ -1,0 +1,269 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_material_day_night_switch"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "part001"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6536,
+      "type": "VEC3",
+      "min": [
+        -82.358428955078125,
+        -0.059999998658895493,
+        -93.368148803710938
+      ],
+      "max": [
+        119.02639770507813,
+        22.5403995513916,
+        13.192839622497559
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6536,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6536,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 10311,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 78432,
+      "componentType": 5126,
+      "count": 3758,
+      "type": "VEC3",
+      "min": [
+        -95.676826477050781,
+        -0.0099999997764825821,
+        -106.02120208740234
+      ],
+      "max": [
+        140.90640258789063,
+        21.1299991607666,
+        171.62080383300781
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 78432,
+      "componentType": 5126,
+      "count": 3758,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 52288,
+      "componentType": 5126,
+      "count": 3758,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 41244,
+      "componentType": 5125,
+      "count": 6471,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "name": "material00",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "doubleSided": true,
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "name": "material01",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.58799999952316284,
+          0.58799999952316284,
+          0.58799999952316284,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 2
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      },
+      "doubleSided": true,
+      "extensions": {
+        "ASOBO_material_day_night_switch": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "terminal_interv4_skcl_termv4_03"
+    },
+    {
+      "source": 1,
+      "name": "terminal_interv4_skcl_termv4_03_lm"
+    },
+    {
+      "source": 2,
+      "name": "terminal_interv4_skcl_termv4_04"
+    },
+    {
+      "source": 3,
+      "name": "terminal_interv4_skcl_termv4_04_lm"
+    }
+  ],
+  "images": [
+    {
+      "uri": "terminal_interv4_skcl_termv4_03.png"
+    },
+    {
+      "uri": "terminal_interv4_skcl_termv4_03_lm.png"
+    },
+    {
+      "uri": "terminal_interv4_skcl_termv4_04.png"
+    },
+    {
+      "uri": "terminal_interv4_skcl_termv4_04_lm.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 67128
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67128,
+      "byteLength": 123528,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 190656,
+      "byteLength": 123528,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 314184,
+      "byteLength": 82352,
+      "byteStride": 8
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 396536,
+      "uri": "terminal_interV4.bin"
+    }
+  ]
+}
